@@ -1,0 +1,8 @@
+/.idea/
+**/*.class
+**/.bloop
+.bsp
+.metals
+**/metals.sbt
+.vscode
+**/target
